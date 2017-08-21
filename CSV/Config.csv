@@ -1,0 +1,8 @@
+﻿configDataID,configDataName,configDataCondition
+int,string,int
+1,1技能,1
+2,2技能,1
+3,3技能,2
+4,4技能,2
+5,5技能,2
+6,6技能,3
